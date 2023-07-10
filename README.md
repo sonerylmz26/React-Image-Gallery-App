@@ -61,8 +61,11 @@ Build a Film Legends App using ReactJS.
 - I used git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Expected Outcome
+  <a href="https://image-react-app.netlify.app/">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-https://image-react-app.netlify.app/
+
 
 ## Expected Outcome
 
